@@ -1,3 +1,4 @@
+请求您删除部分侵权代码！请您尽快联系我，电话/微信：17512549214 邮箱：2259461527@qq.com
 # Ventoy
 Ventoy is an open source tool to create bootable USB drive for ISO files.   
 With ventoy, you don't need to format the disk again and again, you just need to copy the iso file to the USB drive and boot it.   
